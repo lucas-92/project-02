@@ -1,4 +1,4 @@
-## **6 Publicar a Imagem no Docker Hub ou GitHub Container Registry**  
+## **3 Publicar a Imagem no Docker Hub ou GitHub Container Registry**  
 1. Criar uma conta no **Docker Hub** ou ativar o **GitHub Container Registry (GHCR)**.  
 2. Fazer login no registro de contêiner:  
    ```sh
