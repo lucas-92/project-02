@@ -1,4 +1,4 @@
-## **3️⃣ Configurar o Kind**  
+## **4 Configurar o Kind**  
 1. Criar um cluster Kubernetes com Kind:  
    ```sh
    kind create cluster --name flask-cluster
